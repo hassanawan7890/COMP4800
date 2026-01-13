@@ -1,0 +1,3 @@
+/home/sajid31/C4400/Assignments/C48_A1/build/CMakeFiles/a1.dir
+/home/sajid31/C4400/Assignments/C48_A1/build/CMakeFiles/edit_cache.dir
+/home/sajid31/C4400/Assignments/C48_A1/build/CMakeFiles/rebuild_cache.dir
